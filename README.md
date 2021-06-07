@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Chung
-- 👀 I’m interested in Weightlifting 
+- 👀 I’m interested in learning new technologies and applying them to forge my thoughts/ideas into real world applications
 - 🌱 I’m currently learning Solidity, Truffle and Web3.js
 - 📫 How to reach me tzevincent@gmail.com
 
