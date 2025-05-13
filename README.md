@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vincent Chung
-- 👀 I’m interested in learning new technologies and applying them to forge my thoughts/ideas into real world applications
-- 🌱 I’m currently learning ASP.NET and Blazor 
+- 🌱 Currently working as a Full-Stack developer using Angular and Spring Boot.
 - 📫 How to reach me tzevincent@gmail.com
 
 <!---
